@@ -1,3 +1,2 @@
-# HDIConsoleX
-The console with an actual intrepter
-Its officaly out for testing
+# HDI-Console (hdish)
+A good sheel

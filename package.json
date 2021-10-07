@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdulhadi5692hdi/hdiconsoleX.git"
+    "url": "git+https://github.com/abdulhadi5692hdi/hdiconsole.git"
   },
   "keywords": [
     "'Terminal'",
@@ -19,9 +19,9 @@
   "author": "Abdulhadi5692HDI",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abdulhadi5692hdi/hdiconsoleX/issues"
+    "url": "https://github.com/abdulhadi5692hdi/hdiconsole/issues"
   },
-  "homepage": "https://github.com/abdulhadi5692hdi/hdiconsoleX#readme",
+  "homepage": "https://github.com/abdulhadi5692hdi/hdiconsole#readme",
   "dependencies": {
     "readline": "^1.3.0"
   }

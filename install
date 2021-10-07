@@ -1,0 +1,37 @@
+#!/bin/env sh
+# Copyright (c) Abdulhadi5692 or Abdulhadi5692HDI 2020-2021
+box1="_________________"
+CC="gcc" # if installed
+set TERM="linux"
+set INSTALLER_INSTALLed='true'
+export setVar="set INSTALLER_INSTALLed='true'"
+echo "Detecting if java and php and nodejs is installed"
+wait="python py/wait.py"
+echo "." |lolcat
+$wait
+
+echo ".." |lolcat
+$wait
+
+echo "..." |lolcat
+$wait
+which java | lolcat
+echo "java installed"
+
+which PHP
+echo "php installed"
+
+which gcc
+which make
+which cmake
+echo "C installed"
+
+which sh >/dev/null
+
+whoami | lolcat
+echo "If it says root close terminal"
+$wait
+echo 'Uncomplete area| Closing $0'
+$wait
+exit 100x
+
